@@ -2,14 +2,14 @@
 ## Pérez-Corona, Y. y Torres, H.  
 
 En este repositorio encontramos:
-* Jupyter Notebook:
+1. Jupyter Notebook:
   - Exploración de datos: como su nombre indica, se muestra la descripción de los datos DopplerScatt y un análisis de ellos.
   - Proyecto: en este se muestra la reconstrucción dela vorticidad de las observaciones aéreas.
-* Archivos de datos DopplerScatt:
+2. Archivos de datos DopplerScatt:
   - dopplerscatt_20211020_140315.tomoL2CF: contiene los datos sin procesar para el ejercicio de exploración de datos.
   - SSH: contienen los datos de SSH previamente calculada. 
   - Smooting: contienen los datos de vorticidad real. 
-* CNN:
+3. CNN:
   - model_cs
   - model_summer
   - model_winter
