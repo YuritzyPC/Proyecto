@@ -10,9 +10,9 @@ En este repositorio encontramos:
    - SSH: contienen los datos de SSH previamente calculada. 
    - Smooting: contienen los datos de vorticidad real. 
 3. Pesos de modelos:
-   - model_cs: preentrenado con la vorticidad de channel simulation.
-   - model_summer: preentrenado con la vorticidad de verano de LLC4320.
-   - model_winter: preentrenado con la vorticidad de invierno de LLC4320.
+   - vort_cs: preentrenado con la vorticidad de channel simulation.
+   - vort_summer: preentrenado con la vorticidad de verano de LLC4320.
+   - vort_winter: preentrenado con la vorticidad de invierno de LLC4320.
 
 Los modelos pueden ser consultados directamente en el repositorio del artículo de Xiao et al. (2023) del cual fueron obtenidos https://github.com/qyxiao/CNN-for-SSH-reconstruction/, así como más detalles sobre su entrenamiento.
 
