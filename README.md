@@ -1,4 +1,4 @@
-# Red neuronal convolucional para la reconstrucción de la vorticidad superficial probada con observaciones aéreas
+# Redes neuronales convolucionales para la reconstrucción de la vorticidad superficial probadas con observaciones aéreas
 ## Pérez-Corona, Y. y Torres, H.  
 
 En este repositorio encontramos:
