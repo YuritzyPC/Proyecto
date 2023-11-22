@@ -4,7 +4,7 @@
 En este repositorio encontramos:
 1. Jupyter Notebook:
    - Exploración de datos: como su nombre indica, se muestra la descripción de los datos DopplerScatt y un análisis de ellos.
-   - Proyecto: en este se muestra la reconstrucción de la vorticidad de las observaciones aéreas.
+   - Proyecto: en este se muestra la reconstrucción de la vorticidad de las observaciones aéreas, tiene una sección donde si se quiere reconstruir a partir de datos satelitales, se pueden ingresar.
 2. Archivos de datos DopplerScatt:
    - dopplerscatt_20211020_140315.tomoL2CF: contiene los datos sin procesar para el ejercicio de exploración de datos. Obtenidos de: https://podaac.jpl.nasa.gov/dataset/SMODE_L2_DOPPLERSCATT_WINDS_CURRENT_V1#. También se pueden consultar otros días.
 3. Pesos de modelos:
