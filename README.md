@@ -17,6 +17,7 @@ Los modelos pueden ser consultados directamente en el repositorio del artículo 
    - dopplerscatt_20211020_140315.tomoL2CF.nc: contiene los datos DopplerScatt del 20 de octubre de 2021 sin procesar para el ejercicio de exploración de datos. Obtenidos de: https://podaac.jpl.nasa.gov/dataset/SMODE_L2_DOPPLERSCATT_WINDS_CURRENT_V1#. También se pueden consultar otros días.
    - dt_global_allsat_phy_l4_19970215_20210726.nc: contiene los datos satelitales de adt para el 15 de febrero de 1997. Obtenidos de: https://data.marine.copernicus.eu/products. También se pueden consultar para otros días.
    - Los demás archivos son datos de SSH y vorticidad para días específicos a partir de datos de DopplerScatt.
-
+4. Figuras para todos los datos y las no incluidas en el artículo se encuentran en Google Drive: https://drive.google.com/drive/folders/1qVscM4V7jzz9eJulJ4pZEzHyyR8QY2cp?usp=sharing.
+   
 ### Referencias
 Xiao, Q., Balwada, D., Jones, C. S., Herrero-González, M., Smith, K. S., Abernathey, R. (2023). Reconstruction of surface kinematics from sea surface height using neural networks. Journal of Advances in Modeling Earth Systems, 15, doi: 10.1029/2023MS003709.
